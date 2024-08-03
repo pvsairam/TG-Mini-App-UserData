@@ -41,12 +41,6 @@ This Telegram Mini App showcases:
 
 2. The static files will be generated in the `out` directory. You can deploy these files to any static hosting service.
 
-## YouTube Channel
-
-For video tutorials and more in-depth explanations, check out my YouTube channel:
-
-[Nikandr Surkov](https://www.youtube.com/@NikandrSurkov)
-
 ## Next Steps
 
 Stay tuned for the next guide in the **Make TON Telegram Mini App** series, where we'll explore more advanced features and TON integration!
